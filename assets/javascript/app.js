@@ -18,8 +18,7 @@ function portfolio(){
     $("#portfolioDiv").show()
 }
 function contact(){
+    $("#aboutDiv").hide()
     $("#portfolioDiv").hide()
-    $("#contactDiv").hide()
     $("#contactDiv").show()
 }
-
