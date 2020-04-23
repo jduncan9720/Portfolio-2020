@@ -22,3 +22,4 @@ function contact(){
     $("#portfolioDiv").hide()
     $("#contactDiv").show()
 }
+

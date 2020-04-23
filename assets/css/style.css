@@ -13,3 +13,8 @@ a {
     color: white;
     text-decoration: none;
 }
+
+#socialIcon {
+    width: 75px;
+    height: auto;
+}
