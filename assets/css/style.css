@@ -1,6 +1,9 @@
 body {
-    background-color: rgb(0, 0, 0);
+    /* background-color: rgb(0, 0, 0); */
     color: white;
+    background-image: url("../images/codeBack.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
 }
 
 #cardMain {
@@ -21,8 +24,4 @@ a {
 
 h1, h3{
     font-family: 'Play', sans-serif;
-}
-
-#homeJumbo{
-    background-color: black;
-}
+};

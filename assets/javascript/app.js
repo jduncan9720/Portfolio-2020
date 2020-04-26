@@ -53,3 +53,4 @@ function contact(){
 //         if (x.matches) { // If media query matches
 //          $(".col-md-4").toggleClass ("col-md-4")
 //         }};
+
