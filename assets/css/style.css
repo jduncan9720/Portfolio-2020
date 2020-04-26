@@ -18,3 +18,11 @@ a {
     width: 75px;
     height: auto;
 }
+
+h1, h3{
+    font-family: 'Play', sans-serif;
+}
+
+#homeJumbo{
+    background-color: black;
+}
